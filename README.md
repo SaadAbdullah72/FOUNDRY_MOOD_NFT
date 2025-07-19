@@ -142,19 +142,4 @@ Make sure you have:
 This project is licensed under the [MIT License](LICENSE).
 © Saad Abdullah
 
----
-
-> 🔥 *“A smart NFT that reflects your mood — fully on‑chain, forever yours.”*
-
----
-
-```
-
----
-
-### ✅ How to Use
-
-- Copy the above markdown into `README.md` at your repo root.
-- Update `$CONTRACT_ADDR` in Usage section after deploying to Anvil.
-- Optional: Add a GIF or SVG screenshot at the top to showcase the dynamic mood change.
 
